@@ -49,14 +49,16 @@ You need to find the Bluetooth MAC address of the SOMA Smart Shade so your Raspb
 
         sudo hcitool lescan
 
-  * Make a note of this Smart Shades MAC address.
+  * Make a note of the Smart Shades MAC address.
 
 
   * Open the *blinddown.sh* and *blindup.sh* files and edit the MAC address codes (00:00:00:00:00:00) so that they match the MAC code of the Smart Shade that you just found.
 
 #### Configure Homebridge to create a switch to move the shades up and down.
 
-  * Install the [Script2](https://github.com/pponce/homebridge-script2) homebridge plugin using the command: `sudo npm install -g homebridge-script2`
+  * Install the [Script2](https://github.com/pponce/homebridge-script2) homebridge plugin using the command:
+
+        sudo npm install -g homebridge-script2
 
   * Configure the plugin to create a switch, on your Raspberry Pi go to your /home/pi/.homebridge folder and edit the *config.json* file
 
