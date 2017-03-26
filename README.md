@@ -42,9 +42,11 @@ https://github.com/nfarina/homebridge/wiki/Running-HomeBridge-on-a-Raspberry-Pi
 You need to find the Bluetooth MAC address of the SOMA Smart Shade so your Raspberry Pi can communicate with it.
 
   * Enable your Bluetooth adaptor on the Raspberry Pi using the command:
+
         sudo hciconfig hci0 up
 
   * Now scan for your Smart Shade (it will normally be identified with the name RISExxx) using the command:
+
         sudo hcitool lescan
 
   * Make a note of this Smart Shades MAC address.
