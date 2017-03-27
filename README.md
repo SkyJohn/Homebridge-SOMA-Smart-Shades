@@ -7,6 +7,7 @@
 
 # Items needed for this project:
 
+* 1x iOS 10 device running [Apple's Home App](http://www.apple.com/uk/ios/home/)
 * 1x Roller Blind (Example: <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/B00XLE0O94/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00XLE0O94&linkCode=as2&tag=httpgithcomsk-21">LINK</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=httpgithcomsk-21&l=as2&o=2&a=B00XLE0O94" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />)
 * 1x SOMA Smart Shade (you can buy them from: <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/B01E5O8P9O/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01E5O8P9O&linkCode=as2&tag=httpgithcomsk-21">LINK</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=httpgithcomsk-21&l=as2&o=2&a=B01E5O8P9O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />)
 * 1x Raspberry Pi 3 Model B (you can buy them from: <a rel="nofollow" href="https://www.amazon.co.uk/gp/product/B01CI5879A/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01CI5879A&linkCode=as2&tag=httpgithcomsk-21">LINK</a><img src="http://ir-uk.amazon-adsystem.com/e/ir?t=httpgithcomsk-21&l=as2&o=2&a=B01CI5879A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />)
